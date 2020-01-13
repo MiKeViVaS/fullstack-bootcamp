@@ -1,0 +1,12 @@
+h1 {
+    text-decoration: none;
+    color: red;
+    font-size: 18px;
+    font-family: Verdana,sans-serif;
+  }
+  h1:hover {
+      color: green;
+  }
+  h1 {
+      transition: color 2s linear 2s;
+  }
